@@ -1,0 +1,15 @@
+D:\CSharp\CS_EventManager\bin\Debug\net8.0\CS_EventManager.exe
+D:\CSharp\CS_EventManager\bin\Debug\net8.0\CS_EventManager.deps.json
+D:\CSharp\CS_EventManager\bin\Debug\net8.0\CS_EventManager.runtimeconfig.json
+D:\CSharp\CS_EventManager\bin\Debug\net8.0\CS_EventManager.dll
+D:\CSharp\CS_EventManager\bin\Debug\net8.0\CS_EventManager.pdb
+D:\CSharp\CS_EventManager\obj\Debug\net8.0\CS_EventManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CS_EventManager\obj\Debug\net8.0\CS_EventManager.AssemblyInfoInputs.cache
+D:\CSharp\CS_EventManager\obj\Debug\net8.0\CS_EventManager.AssemblyInfo.cs
+D:\CSharp\CS_EventManager\obj\Debug\net8.0\CS_EventManager.csproj.CoreCompileInputs.cache
+D:\CSharp\CS_EventManager\obj\Debug\net8.0\CS_EventManager.sourcelink.json
+D:\CSharp\CS_EventManager\obj\Debug\net8.0\CS_EventManager.dll
+D:\CSharp\CS_EventManager\obj\Debug\net8.0\refint\CS_EventManager.dll
+D:\CSharp\CS_EventManager\obj\Debug\net8.0\CS_EventManager.pdb
+D:\CSharp\CS_EventManager\obj\Debug\net8.0\CS_EventManager.genruntimeconfig.cache
+D:\CSharp\CS_EventManager\obj\Debug\net8.0\ref\CS_EventManager.dll
